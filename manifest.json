@@ -110,5 +110,13 @@
     "uniStatistics" : {
         "enable" : false
     },
-    "vueVersion" : "2"
+    "vueVersion" : "2",
+    "app-harmony" : {
+        "distribute" : {
+            "bundleName" : "校园表白墙"
+        }
+    },
+    "h5" : {
+        "title" : "校园表白墙"
+    }
 }
